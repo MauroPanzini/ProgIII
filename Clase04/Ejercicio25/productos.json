@@ -1,0 +1,34 @@
+[
+    {
+        "id": 7271,
+        "codigo_barra": "123456",
+        "nombre": "Jabon",
+        "tipo": "Antibacterial",
+        "stock": 60,
+        "precio": 500
+    },
+    {
+        "id": 6928,
+        "codigo_barra": "123321",
+        "nombre": "Jabon",
+        "tipo": "Floral",
+        "stock": 20,
+        "precio": 500
+    },
+    {
+        "id": 9793,
+        "codigo_barra": "123",
+        "nombre": "Jabon",
+        "tipo": "a",
+        "stock": 20,
+        "precio": 500
+    },
+    {
+        "id": 2664,
+        "codigo_barra": "000012",
+        "nombre": "Jabon",
+        "tipo": "a",
+        "stock": 40,
+        "precio": 500
+    }
+]
