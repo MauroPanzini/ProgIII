@@ -1,0 +1,265 @@
+[
+    {
+        "id": 1,
+        "email": "a@a.com",
+        "nombre": "Camiseta roja",
+        "tipo": "Camiseta",
+        "talla": "S",
+        "stock": "20",
+        "fecha": "2024-05-21 00:55:16",
+        "numeroPedido": "664bd4d411246",
+        "imagen": {
+            "name": "hombrecompradorcamiseta.jpg",
+            "full_path": "hombrecompradorcamiseta.jpg",
+            "type": "image\/jpeg",
+            "tmp_name": "C:\\xampp\\tmp\\php1F74.tmp",
+            "error": 0,
+            "size": 277362
+        }
+    },
+    {
+        "id": 2,
+        "email": "a@a.com",
+        "nombre": "Camiseta roja",
+        "tipo": "Camiseta",
+        "talla": "M",
+        "stock": "1",
+        "fecha": "2024-05-21 00:56:28",
+        "numeroPedido": "664bd51cb8f55",
+        "imagen": {
+            "name": "hombrecompradorcamiseta.jpg",
+            "full_path": "hombrecompradorcamiseta.jpg",
+            "type": "image\/jpeg",
+            "tmp_name": "C:\\xampp\\tmp\\php3B74.tmp",
+            "error": 0,
+            "size": 277362
+        }
+    },
+    {
+        "id": 3,
+        "email": "a@a.com",
+        "nombre": "Camiseta roja",
+        "tipo": "Camiseta",
+        "talla": "M",
+        "stock": "1",
+        "fecha": "2024-05-21 00:56:58",
+        "numeroPedido": "664bd53a04c26",
+        "imagen": {
+            "name": "hombrecompradorcamiseta.jpg",
+            "full_path": "hombrecompradorcamiseta.jpg",
+            "type": "image\/jpeg",
+            "tmp_name": "C:\\xampp\\tmp\\phpADB7.tmp",
+            "error": 0,
+            "size": 277362
+        }
+    },
+    {
+        "id": 4,
+        "email": "a@a.com",
+        "nombre": "Camiseta roja",
+        "tipo": "Camiseta",
+        "talla": "M",
+        "stock": "1",
+        "fecha": "2024-05-21 00:57:28",
+        "numeroPedido": "664bd558d45ce",
+        "imagen": {
+            "name": "hombrecompradorcamiseta.jpg",
+            "full_path": "hombrecompradorcamiseta.jpg",
+            "type": "image\/jpeg",
+            "tmp_name": "C:\\xampp\\tmp\\php2634.tmp",
+            "error": 0,
+            "size": 277362
+        }
+    },
+    {
+        "id": 5,
+        "email": "a@a.com",
+        "nombre": "Camiseta roja",
+        "tipo": "Camiseta",
+        "talla": "M",
+        "stock": "1",
+        "fecha": "2024-05-21 00:57:34",
+        "numeroPedido": "664bd55ee7f74",
+        "imagen": {
+            "name": "hombrecompradorcamiseta.jpg",
+            "full_path": "hombrecompradorcamiseta.jpg",
+            "type": "image\/jpeg",
+            "tmp_name": "C:\\xampp\\tmp\\php3E03.tmp",
+            "error": 0,
+            "size": 277362
+        }
+    },
+    {
+        "id": 6,
+        "email": "a@a.com",
+        "nombre": "Camiseta roja",
+        "tipo": "Camiseta",
+        "talla": "M",
+        "stock": "1",
+        "fecha": "2024-05-21 00:57:40",
+        "numeroPedido": "664bd564620ab",
+        "imagen": {
+            "name": "hombrecompradorcamiseta.jpg",
+            "full_path": "hombrecompradorcamiseta.jpg",
+            "type": "image\/jpeg",
+            "tmp_name": "C:\\xampp\\tmp\\php5351.tmp",
+            "error": 0,
+            "size": 277362
+        }
+    },
+    {
+        "id": 7,
+        "email": "a@a.com",
+        "nombre": "Camiseta roja",
+        "tipo": "Camiseta",
+        "talla": "M",
+        "stock": "1",
+        "fecha": "2024-05-21 00:57:50",
+        "numeroPedido": "664bd56e5a617",
+        "imagen": {
+            "name": "hombrecompradorcamiseta.jpg",
+            "full_path": "hombrecompradorcamiseta.jpg",
+            "type": "image\/jpeg",
+            "tmp_name": "C:\\xampp\\tmp\\php7A42.tmp",
+            "error": 0,
+            "size": 277362
+        }
+    },
+    {
+        "id": 8,
+        "email": "a@a.com",
+        "nombre": "Camiseta roja",
+        "tipo": "Camiseta",
+        "talla": "M",
+        "stock": "1",
+        "fecha": "2024-05-21 00:59:45",
+        "numeroPedido": "664bd5e1989ab",
+        "imagen": {
+            "name": "hombrecompradorcamiseta.jpg",
+            "full_path": "hombrecompradorcamiseta.jpg",
+            "type": "image\/jpeg",
+            "tmp_name": "C:\\xampp\\tmp\\php3C75.tmp",
+            "error": 0,
+            "size": 277362
+        }
+    },
+    {
+        "id": 9,
+        "email": "a@a.com",
+        "nombre": "Camiseta roja",
+        "tipo": "Camiseta",
+        "talla": "M",
+        "stock": "1",
+        "fecha": "2024-05-21 00:59:54",
+        "numeroPedido": "664bd5ea73ffd",
+        "imagen": {
+            "name": "hombrecompradorcamiseta.jpg",
+            "full_path": "hombrecompradorcamiseta.jpg",
+            "type": "image\/jpeg",
+            "tmp_name": "C:\\xampp\\tmp\\php5F02.tmp",
+            "error": 0,
+            "size": 277362
+        }
+    },
+    {
+        "id": 10,
+        "email": "a@a.com",
+        "nombre": "Camiseta roja",
+        "tipo": "Camiseta",
+        "talla": "M",
+        "stock": "1",
+        "fecha": "2024-05-21 01:00:06",
+        "numeroPedido": "664bd5f60c3eb",
+        "imagen": {
+            "name": "hombrecompradorcamiseta.jpg",
+            "full_path": "hombrecompradorcamiseta.jpg",
+            "type": "image\/jpeg",
+            "tmp_name": "C:\\xampp\\tmp\\php8C3D.tmp",
+            "error": 0,
+            "size": 277362
+        }
+    },
+    {
+        "id": 11,
+        "email": "a@a.com",
+        "nombre": "Camiseta roja",
+        "tipo": "Camiseta",
+        "talla": "M",
+        "stock": "1",
+        "fecha": "2024-05-21 01:00:10",
+        "numeroPedido": "664bd5fa48ab7",
+        "imagen": {
+            "name": "hombrecompradorcamiseta.jpg",
+            "full_path": "hombrecompradorcamiseta.jpg",
+            "type": "image\/jpeg",
+            "tmp_name": "C:\\xampp\\tmp\\php9CD8.tmp",
+            "error": 0,
+            "size": 277362
+        }
+    },
+    {
+        "id": 12,
+        "email": "a@a.com",
+        "nombre": "Camiseta roja",
+        "tipo": "Camiseta",
+        "talla": "M",
+        "stock": "1",
+        "fecha": "2024-05-21 01:00:33",
+        "numeroPedido": "664bd611d6bac",
+        "imagen": {
+            "name": "hombrecompradorcamiseta.jpg",
+            "full_path": "hombrecompradorcamiseta.jpg",
+            "type": "image\/jpeg",
+            "tmp_name": "C:\\xampp\\tmp\\phpF903.tmp",
+            "error": 0,
+            "size": 277362
+        }
+    },
+    {
+        "id": 13,
+        "email": "a@a.com",
+        "nombre": "Camiseta roja",
+        "tipo": "Camiseta",
+        "talla": "M",
+        "stock": "1",
+        "fecha": "2024-05-21 01:02:01",
+        "numeroPedido": "664bd669a9e9e",
+        "imagen": {
+            "name": "hombrecompradorcamiseta.jpg",
+            "full_path": "hombrecompradorcamiseta.jpg",
+            "type": "image\/jpeg",
+            "tmp_name": "C:\\xampp\\tmp\\php4FF9.tmp",
+            "error": 0,
+            "size": 277362
+        }
+    },
+    {
+        "id": 14,
+        "email": "a@a.com",
+        "nombre": "Camiseta roja",
+        "tipo": "Camiseta",
+        "talla": "M",
+        "stock": "1",
+        "fecha": "2024-05-21 01:17:06",
+        "numeroPedido": "664bd9f2a1e1d",
+        "imagen": {
+            "name": "hombrecompradorcamiseta.jpg",
+            "full_path": "hombrecompradorcamiseta.jpg",
+            "type": "image\/jpeg",
+            "tmp_name": "C:\\xampp\\tmp\\php1F03.tmp",
+            "error": 0,
+            "size": 277362
+        }
+    },
+    {
+        "id": 15,
+        "email": "prueba2@utn.com",
+        "nombre": "PantalonJean",
+        "tipo": "pantalon",
+        "talla": "M",
+        "stock": "2",
+        "fecha": "2024-05-21 04:05:13",
+        "numeroPedido": "664c01595828a",
+        "imagen": null
+    }
+]

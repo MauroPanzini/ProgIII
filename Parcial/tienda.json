@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "nombre": "Camiseta roja",
+        "precio": "1000",
+        "tipo": "Camiseta",
+        "talla": "M",
+        "color": "Rojo",
+        "stock": 88,
+        "imagen": {
+            "name": "CAMISETAROKJA.jpg",
+            "full_path": "CAMISETAROKJA.jpg",
+            "type": "image\/jpeg",
+            "tmp_name": "C:\\xampp\\tmp\\php3BF6.tmp",
+            "error": 0,
+            "size": 17868
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "JeanAzul",
+        "precio": "300",
+        "tipo": "pantalon",
+        "talla": "S",
+        "color": "Negro",
+        "stock": 1,
+        "imagen": {
+            "name": "jean-negro-1.jpg",
+            "full_path": "jean-negro-1.jpg",
+            "type": "image\/jpeg",
+            "tmp_name": "C:\\xampp\\tmp\\phpACC7.tmp",
+            "error": 0,
+            "size": 209389
+        }
+    }
+]
